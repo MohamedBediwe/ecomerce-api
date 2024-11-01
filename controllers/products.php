@@ -1,5 +1,5 @@
 <?php
 
-header("Location: http://localhost:5173/products");
+// header("Location: http://localhost:5173/products");
 
 die();
